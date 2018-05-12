@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25011'
     url: http://www.gutenberg.org/2009/agents/25011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21985#John-NicholsonThe-Lion-of-the-Punjaub
 gutenberg_issued: '2007-07-02'
 gutenberg_type: Text
 identifiers:
